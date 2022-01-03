@@ -12,14 +12,14 @@ const PrimeraApp = (
 
     
     
-    console.log(saludo)
+    // console.log(saludo)
 
 
     return (
         <>
 
             <h1>{ saludo }</h1>
-            <p> { subtitulo } </p>
+            <p>{ subtitulo }</p>
         
         </>
 
